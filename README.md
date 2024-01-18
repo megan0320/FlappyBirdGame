@@ -1,5 +1,7 @@
 Welcome to the basic Flappy Bird game built with C# and Unity!
 
+<img src="https://github.com/megan0320/FlappyBirdGame/blob/main/flappyBirdDemo.gif"  width="440" height="280">
+
 ## How to Play
 
 1. **Start the Game:** Press the space bar to make the bird jump and start the game.
